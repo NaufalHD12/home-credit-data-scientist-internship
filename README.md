@@ -57,7 +57,7 @@ The scorecard model provides insights into loan risk factors, helping **Home Cre
 
 ## Author
 **Naufal Hadi Darmawan**  
-*Data Science & Machine Learning Enthusiast*
+*Data & Machine Learning Specialist*
 
 ---
 This project serves as a foundation for predictive modeling in the financial sector, helping Home Credit Indonesia optimize loan approval strategies and minimize risks.
